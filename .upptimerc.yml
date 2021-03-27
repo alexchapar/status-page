@@ -9,7 +9,7 @@ sites:
     icon: https://workfromhome.capricehosting.com/favicon.ico
 
 status-website:
-  theme: dark
+  theme: ocean
   # # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
@@ -24,8 +24,6 @@ status-website:
     - title: GitHub
       href: https://github.com/alexchapar/upptime
   metaTags:
-    - name: "color-scheme"
-      content: "dark light"
     - name: "robots"
       content: "noindex"
 
