@@ -13,8 +13,8 @@ status-website:
   # # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /$REPO
-  logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/$REPO-icon.svg
+  baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/alexchapar/upptime/master/assets/upptime-icon.svg
   name: Websites Status and Uptime
   introTitle: "Status page and uptime of our managed websites, powered entirely by GitHub."
   introMessage: Below are the charts as well as the current status of our managed websites. <br /><br />This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages.
@@ -22,7 +22,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/alexchapar/upptime
   metaTags:
     - name: "color-scheme"
       content: "dark light"
