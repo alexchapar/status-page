@@ -1,4 +1,4 @@
-# [![Status Pages](https://raw.githubusercontent.com/alexchapar/status-page/master/assets/my-status-page.svg)](https://alexchapar.github.io/status-page) Status Page: <!--live status--> **🟧 Partial outage**
+# [![Status Pages](https://raw.githubusercontent.com/alexchapar/status-page/master/assets/my-status-page.svg)](https://alexchapar.github.io/status-page) Status Page: <!--live status--> **🟩 All systems operational**
 
 This repository contains the uptime monitor and status page of our managed websites, powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -7,9 +7,6 @@ This repository contains the uptime monitor and status page of our managed websi
 [![Graphs CI](https://github.com/alexchapar/status-page/workflows/Graphs%20CI/badge.svg)](https://github.com/alexchapar/status-page/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/alexchapar/status-page/workflows/Static%20Site%20CI/badge.svg)](https://github.com/alexchapar/status-page/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/alexchapar/status-page/workflows/Summary%20CI/badge.svg)](https://github.com/alexchapar/status-page/actions?query=workflow%3A%22Summary+CI%22)
-
-
-## [📈 Live Status](https://alexchapar.github.io/status-page)
 
 We use [Issues](https://github.com/alexchapar/status-page/issues) as incident reports, [Actions](https://github.com/alexchapar/status-page/actions) as uptime monitors, and [Pages](https://alexchapar.github.io/status-page) for the status page.
 
