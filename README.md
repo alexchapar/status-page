@@ -1,4 +1,4 @@
-# [![Status Pages](https://raw.githubusercontent.com/alexchapar/upptime/master/assets/upptime-icon.svg)](https://alexchapar.github.io/upptime) Status Page
+# [![Status Pages](https://raw.githubusercontent.com/alexchapar/upptime/master/assets/my-upptime.svg)](https://alexchapar.github.io/upptime) Status Page
 
 This repository contains the open-source uptime monitor and status page for [AlexChaPar](https://alexchapar.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
