@@ -9,24 +9,31 @@ sites:
     icon: https://workfromhome.capricehosting.com/favicon.ico
     maxResponseTime: 750
 
+assignees: # Users to assign downtime issues (optional)
+  - AlexChaPar
+
 status-website:
   theme: ocean
   # # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/alexchapar/upptime/master/assets/upptime-icon.svg
+  logoUrl: https://raw.githubusercontent.com/alexchapar/upptime/master/assets/my-upptime.svg
   name: Websites Status and Uptime
-  introTitle: "Status page and uptime of our managed websites, powered entirely by GitHub."
-  introMessage: Below are the charts as well as the current status of our managed websites. <br /><br />This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "Uptime monitor and status page of our managed websites."
+  introMessage: Below are the charts as well as the current status of our managed websites. <br /><br />This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/alexchapar/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  favicon: hhttps://raw.githubusercontent.com/alexchapar/upptime/master/assets/my-upptime.png
+  faviconSvg: https://raw.githubusercontent.com/alexchapar/upptime/master/assets/my-upptime.svg
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
-      href: https://github.com/alexchapar/upptime
+      href: https://github.com/alexchapar
   metaTags:
     - name: "robots"
       content: "noindex"
+
+robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
