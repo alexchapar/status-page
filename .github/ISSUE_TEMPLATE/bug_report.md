@@ -7,7 +7,7 @@ assignees: 'AlexChaPar'
 
 ---
 
-<!-- If you have a question, you should use Discussions instead: https://github.com/alexchapar/upptime/discussions -->
+<!-- If you have a question, you should use Discussions instead: https://github.com/alexchapar/status-page/discussions -->
 
 **Describe the bug**
 A clear and concise description of what the bug is.
