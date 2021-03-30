@@ -16,5 +16,23 @@
     "timeMonth": 431,
     "timeYear": 431,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "$WEBSITE_1_NAME",
+    "url": "$WEBSITE_1_URL",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "website-1-name",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2137,
+    "timeDay": 2137,
+    "timeWeek": 2137,
+    "timeMonth": 2137,
+    "timeYear": 2137,
+    "dailyMinutesDown": {}
   }
 ]
