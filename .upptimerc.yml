@@ -8,7 +8,7 @@ sites:
     url: https://workfromhome.capricehosting.com/
     icon: https://workfromhome.capricehosting.com/favicon.ico
     maxResponseTime: 750
-  - name: $WEBSITE_1_NAME
+  - name: Secret Website 1
     url: $WEBSITE_1_URL
     maxResponseTime: 3000
 
