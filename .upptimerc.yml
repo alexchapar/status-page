@@ -8,6 +8,9 @@ sites:
     url: https://workfromhome.capricehosting.com/
     icon: https://workfromhome.capricehosting.com/favicon.ico
     maxResponseTime: 750
+  - name: $WEBSITE_1_NAME
+    url: $WEBSITE_1_URL
+    maxResponseTime: 3000
 
 assignees: # Users to assign downtime issues (optional)
   - AlexChaPar
