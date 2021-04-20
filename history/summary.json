@@ -22,17 +22,17 @@
     "url": "$SECRET_WEBSITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-website-1",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3291,
-    "timeDay": 4524,
-    "timeWeek": 2680,
-    "timeMonth": 3291,
-    "timeYear": 3291,
+    "time": 3282,
+    "timeDay": 4217,
+    "timeWeek": 2661,
+    "timeMonth": 3282,
+    "timeYear": 3282,
     "dailyMinutesDown": {}
   }
 ]
