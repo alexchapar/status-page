@@ -7,10 +7,10 @@ sites:
   - name: Web Busy Light Demo
     url: https://workfromhome.capricehosting.com/
     icon: https://workfromhome.capricehosting.com/favicon.ico
-    maxResponseTime: 750
+    maxResponseTime: 500
   - name: Secret Website 1
     url: $SECRET_WEBSITE_1
-    maxResponseTime: 3000
+    maxResponseTime: 2000
 
 assignees: # Users to assign downtime issues (optional)
   - AlexChaPar
