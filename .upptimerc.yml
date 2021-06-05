@@ -10,22 +10,16 @@ sites:
     maxResponseTime: 500
   - name: Secret Website 1
     url: $SECRET_WEBSITE_1
-    maxResponseTime: 2000
-  - name: Secret SSL Website 1
-    url: $SECRET_SSLWEBSITE_1
-    maxResponseTime: 2000
+    maxResponseTime: 1750
   - name: Secret Website 2
     url: $SECRET_WEBSITE_2
-    maxResponseTime: 2000
-  - name: Secret SSL Website 2
-    url: $SECRET_SSLWEBSITE_2
-    maxResponseTime: 2000
+    maxResponseTime: 1750
   - name: Secret Website 3
     url: $SECRET_WEBSITE_3
-    maxResponseTime: 1500
+    maxResponseTime: 1750
   - name: Secret Website 4
     url: $SECRET_WEBSITE_4
-    maxResponseTime: 1000
+    maxResponseTime: 1750
 
 assignees: # Users to assign downtime issues (optional)
   - AlexChaPar
