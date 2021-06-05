@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 184,
-    "timeWeek": 266,
+    "timeDay": 236,
+    "timeWeek": 273,
     "timeMonth": 412,
     "timeYear": 457,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "$SECRET_WEBSITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-website-1",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2863,
-    "timeDay": 1723,
-    "timeWeek": 1616,
-    "timeMonth": 2668,
-    "timeYear": 2863,
-    "dailyMinutesDown": {}
+    "time": 2862,
+    "timeDay": 1841,
+    "timeWeek": 1641,
+    "timeMonth": 2670,
+    "timeYear": 2862,
+    "dailyMinutesDown": {
+      "2021-06-05": 0
+    }
   },
   {
     "name": "Secret SSL Website 1",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1517,
-    "timeDay": 1517,
-    "timeWeek": 1517,
-    "timeMonth": 1517,
-    "timeYear": 1517,
+    "time": 1530,
+    "timeDay": 1530,
+    "timeWeek": 1530,
+    "timeMonth": 1530,
+    "timeYear": 1530,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 632,
-    "timeWeek": 632,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "time": 578,
+    "timeDay": 578,
+    "timeWeek": 578,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 406,
-    "timeWeek": 406,
-    "timeMonth": 406,
-    "timeYear": 406,
+    "time": 412,
+    "timeDay": 412,
+    "timeWeek": 412,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   }
 ]
