@@ -76,19 +76,19 @@
     "url": "$SECRET_WEBSITE_4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-website-4",
-    "status": "degraded",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
-    "time": 1843,
-    "timeDay": 1843,
-    "timeWeek": 1843,
-    "timeMonth": 1843,
-    "timeYear": 1843,
+    "status": "down",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 1764,
+    "timeDay": 1764,
+    "timeWeek": 1764,
+    "timeMonth": 1764,
+    "timeYear": 1764,
     "dailyMinutesDown": {
-      "2021-06-05": 34
+      "2021-06-05": 65
     }
   }
 ]
