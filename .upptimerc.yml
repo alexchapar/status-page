@@ -8,18 +8,6 @@ sites:
     url: https://workfromhome.capricehosting.com/
     icon: https://workfromhome.capricehosting.com/favicon.ico
     maxResponseTime: 500
-  - name: Secret Website 1
-    url: $SECRET_WEBSITE_1
-    maxResponseTime: 1750
-  - name: Secret Website 2
-    url: $SECRET_WEBSITE_2
-    maxResponseTime: 1750
-  - name: Secret Website 3
-    url: $SECRET_WEBSITE_3
-    maxResponseTime: 1750
-  - name: Secret Website 4
-    url: $SECRET_WEBSITE_4
-    maxResponseTime: 1750
 
 assignees: # Users to assign downtime issues (optional)
   - AlexChaPar
