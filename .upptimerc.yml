@@ -16,10 +16,10 @@ sites:
     maxResponseTime: 3500
   - name: Secret Website 4
     url: $SECRET_WEBSITE_4
-    maxResponseTime: 1750
+    maxResponseTime: 3500
 
 assignees: # Users to assign downtime issues (optional)
-  - AlexChaPar
+  - BotServiceAutomation
 
 status-website:
   theme: ocean
