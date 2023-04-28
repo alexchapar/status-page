@@ -11,9 +11,6 @@ sites:
   - name: Secret Website 1
     url: $SECRET_WEBSITE_1
     maxResponseTime: 3750
-  - name: Secret Website 2
-    url: $SECRET_WEBSITE_2
-    maxResponseTime: 1750
   - name: Secret Website 3
     url: $SECRET_WEBSITE_3
     maxResponseTime: 3500
