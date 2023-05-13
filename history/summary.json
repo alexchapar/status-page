@@ -6,18 +6,16 @@
     "slug": "web-busy-light-demo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 317,
-    "timeWeek": 251,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {
-      "2023-05-13": 10
-    }
+    "time": 241,
+    "timeDay": 308,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Website 1",
@@ -26,18 +24,16 @@
     "slug": "secret-website-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 444,
-    "timeWeek": 468,
-    "timeMonth": 475,
-    "timeYear": 475,
-    "dailyMinutesDown": {
-      "2023-05-13": 10
-    }
+    "time": 480,
+    "timeDay": 517,
+    "timeWeek": 469,
+    "timeMonth": 480,
+    "timeYear": 480,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Website 3",
@@ -46,17 +42,16 @@
     "slug": "secret-website-3",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.96%",
-    "time": 3395,
-    "timeDay": 1835,
-    "timeWeek": 2198,
-    "timeMonth": 3395,
-    "timeYear": 3395,
+    "time": 3383,
+    "timeDay": 1856,
+    "timeWeek": 2246,
+    "timeMonth": 3383,
+    "timeYear": 3383,
     "dailyMinutesDown": {
-      "2023-05-13": 10,
       "2023-05-05": 52,
       "2023-05-04": 87,
       "2023-05-03": 82
@@ -69,17 +64,15 @@
     "slug": "secret-website-4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1257,
-    "timeDay": 1178,
-    "timeWeek": 1387,
-    "timeMonth": 1257,
-    "timeYear": 1257,
-    "dailyMinutesDown": {
-      "2023-05-13": 10
-    }
+    "time": 1249,
+    "timeDay": 1141,
+    "timeWeek": 1365,
+    "timeMonth": 1249,
+    "timeYear": 1249,
+    "dailyMinutesDown": {}
   }
 ]
