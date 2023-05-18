@@ -40,7 +40,7 @@
     "url": "$SECRET_WEBSITE_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-website-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.63%",
     "uptimeWeek": "99.80%",
