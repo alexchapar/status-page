@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 196,
-    "timeWeek": 302,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "time": 259,
+    "timeDay": 199,
+    "timeWeek": 304,
+    "timeMonth": 259,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "secret-website-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 328,
-    "timeWeek": 375,
-    "timeMonth": 452,
-    "timeYear": 452,
-    "dailyMinutesDown": {
-      "2023-05-20": 8
-    }
+    "time": 451,
+    "timeDay": 340,
+    "timeWeek": 365,
+    "timeMonth": 451,
+    "timeYear": 451,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Website 3",
@@ -48,11 +46,11 @@
     "uptimeWeek": "98.65%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.93%",
-    "time": 3406,
-    "timeDay": 1965,
-    "timeWeek": 3565,
-    "timeMonth": 3406,
-    "timeYear": 3406,
+    "time": 3383,
+    "timeDay": 1666,
+    "timeWeek": 3500,
+    "timeMonth": 3383,
+    "timeYear": 3383,
     "dailyMinutesDown": {
       "2023-05-18": 136,
       "2023-05-05": 52,
@@ -71,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1229,
-    "timeDay": 993,
-    "timeWeek": 1189,
-    "timeMonth": 1229,
-    "timeYear": 1229,
+    "time": 1219,
+    "timeDay": 805,
+    "timeWeek": 1173,
+    "timeMonth": 1219,
+    "timeYear": 1219,
     "dailyMinutesDown": {}
   }
 ]
