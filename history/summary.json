@@ -4,18 +4,20 @@
     "url": "https://workfromhome.capricehosting.com/",
     "icon": "https://workfromhome.capricehosting.com/favicon.ico",
     "slug": "web-busy-light-demo",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 227,
-    "timeWeek": 221,
-    "timeMonth": 240,
-    "timeYear": 247,
-    "dailyMinutesDown": {}
+    "time": 278,
+    "timeDay": 1672,
+    "timeWeek": 454,
+    "timeMonth": 295,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2023-06-21": 0
+    }
   },
   {
     "name": "Secret Website 1",
