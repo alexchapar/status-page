@@ -6,18 +6,16 @@
     "slug": "web-busy-light-demo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 1428,
-    "timeWeek": 447,
-    "timeMonth": 294,
+    "timeDay": 1456,
+    "timeWeek": 450,
+    "timeMonth": 296,
     "timeYear": 278,
-    "dailyMinutesDown": {
-      "2023-06-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Website 1",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 191,
-    "timeWeek": 482,
-    "timeMonth": 511,
-    "timeYear": 490,
+    "time": 488,
+    "timeDay": 144,
+    "timeWeek": 471,
+    "timeMonth": 501,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.91%",
-    "time": 2872,
-    "timeDay": 2065,
-    "timeWeek": 1764,
+    "time": 2871,
+    "timeDay": 2174,
+    "timeWeek": 1796,
     "timeMonth": 2425,
-    "timeYear": 2872,
+    "timeYear": 2871,
     "dailyMinutesDown": {
       "2023-05-28": 31,
       "2023-05-26": 110,
@@ -73,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1187,
-    "timeDay": 1946,
-    "timeWeek": 1393,
-    "timeMonth": 1165,
-    "timeYear": 1187,
+    "time": 1189,
+    "timeDay": 1896,
+    "timeWeek": 1417,
+    "timeMonth": 1175,
+    "timeYear": 1189,
     "dailyMinutesDown": {}
   }
 ]
