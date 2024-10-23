@@ -1,33 +1,57 @@
 # Change these first
 owner: alexchapar # Your GitHub username
-repo: upptime # Your GitHub repository name
+repo: status-page # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Web Busy Light Demo
     url: https://workfromhome.capricehosting.com/
     icon: https://workfromhome.capricehosting.com/favicon.ico
+    maxResponseTime: 500
+  - name: Secret Website 1
+    url: $SECRET_WEBSITE_1
+    maxResponseTime: 3750
+  - name: Secret Website 3
+    url: $SECRET_WEBSITE_3
+    maxResponseTime: 3500
+  - name: Secret Website 4
+    url: $SECRET_WEBSITE_4
+    maxResponseTime: 3500
+
+assignees: # Users to assign downtime issues (optional)
+  - BotServiceAutomation
 
 status-website:
-  theme: dark
+  theme: ocean
   # # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/alexchapar/upptime/master/assets/upptime-icon.svg
+  baseUrl: /status-page
+  logoUrl: https://raw.githubusercontent.com/alexchapar/status-page/master/assets/my-status-page.svg
   name: Websites Status and Uptime
-  introTitle: "Status page and uptime of our managed websites, powered entirely by GitHub."
-  introMessage: Below are the charts as well as the current status of our managed websites. <br /><br />This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "Uptime monitor and status page of our managed websites."
+  introMessage: Below are the charts as well as the current status of our managed websites. <br /><br />This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/alexchapar/status-page). No server required — just GitHub Actions, Issues, and Pages.
+  favicon: hhttps://raw.githubusercontent.com/alexchapar/status-page/master/assets/my-status-page.png
+  faviconSvg: https://raw.githubusercontent.com/alexchapar/status-page/master/assets/my-status-page.svg
   navbar:
     - title: Status
-      href: /
+      href: /status-page
     - title: GitHub
-      href: https://github.com/alexchapar/upptime
+      href: https://github.com/alexchapar
   metaTags:
-    - name: "color-scheme"
-      content: "dark light"
     - name: "robots"
       content: "noindex"
 
-# Upptime also supports notifications, assigning issues, and more
+robotsText: "User-agent: * \n Disallow: /"
+
+workflowSchedule:
+  graphs: "20 */6 * * *"
+  responseTime: "0 */6 * * *"
+  staticSite: "59 */12 * * *"
+  summary: "40 */6 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/7 * * * *"
+
+# status-page also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
