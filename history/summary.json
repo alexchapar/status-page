@@ -66,8 +66,8 @@
     "slug": "secret-website-3",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.84%",
     "time": 1653,
@@ -76,7 +76,6 @@
     "timeMonth": 1671,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2025-07-31": 0,
       "2025-07-30": 16,
       "2025-07-19": 28,
       "2025-07-17": 29,
