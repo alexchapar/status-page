@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 242,
-    "timeDay": 137,
-    "timeWeek": 239,
-    "timeMonth": 236,
+    "timeDay": 178,
+    "timeWeek": 252,
+    "timeMonth": 238,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-05-22": 23,
@@ -26,8 +26,7 @@
       "2024-10-14": 61,
       "2024-08-25": 238,
       "2024-08-24": 63,
-      "2024-08-01": 19,
-      "2024-07-31": 43
+      "2024-08-01": 19
     }
   },
   {
@@ -42,9 +41,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
     "time": 571,
-    "timeDay": 320,
-    "timeWeek": 428,
-    "timeMonth": 601,
+    "timeDay": 396,
+    "timeWeek": 444,
+    "timeMonth": 589,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2025-07-11": 28,
@@ -57,8 +56,7 @@
       "2025-02-19": 51,
       "2025-01-18": 19,
       "2024-08-25": 238,
-      "2024-08-24": 63,
-      "2024-07-31": 43
+      "2024-08-24": 63
     }
   },
   {
@@ -68,17 +66,17 @@
     "slug": "secret-website-3",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.84%",
     "time": 1648,
-    "timeDay": 2297,
-    "timeWeek": 1675,
-    "timeMonth": 1638,
+    "timeDay": 2323,
+    "timeWeek": 1670,
+    "timeMonth": 1623,
     "timeYear": 1648,
     "dailyMinutesDown": {
-      "2025-07-30": 31,
+      "2025-07-30": 16,
       "2025-07-19": 28,
       "2025-07-17": 29,
       "2025-06-25": 15,
@@ -91,8 +89,7 @@
       "2025-02-19": 50,
       "2024-10-14": 125,
       "2024-08-25": 238,
-      "2024-08-24": 62,
-      "2024-07-31": 16
+      "2024-08-24": 62
     }
   },
   {
@@ -107,9 +104,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.89%",
     "time": 819,
-    "timeDay": 925,
-    "timeWeek": 969,
-    "timeMonth": 921,
+    "timeDay": 954,
+    "timeWeek": 977,
+    "timeMonth": 918,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2025-07-24": 30,
