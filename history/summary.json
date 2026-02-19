@@ -6,14 +6,14 @@
     "slug": "web-busy-light-demo",
     "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "60.18%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "64.81%",
     "uptimeMonth": "89.77%",
     "uptimeYear": "91.68%",
     "time": 242,
-    "timeDay": 215,
-    "timeWeek": 242,
-    "timeMonth": 237,
+    "timeDay": 202,
+    "timeWeek": 240,
+    "timeMonth": 235,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2026-02-18": 58,
@@ -105,8 +105,7 @@
       "2025-04-20": 25,
       "2025-03-21": 16,
       "2025-03-13": 72,
-      "2025-02-20": 60,
-      "2025-02-19": 51
+      "2025-02-20": 60
     }
   },
   {
@@ -116,15 +115,15 @@
     "slug": "secret-website-1",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "94.06%",
-    "uptimeWeek": "60.24%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "64.86%",
     "uptimeMonth": "89.80%",
     "uptimeYear": "94.94%",
     "time": 569,
-    "timeDay": 369,
-    "timeWeek": 407,
-    "timeMonth": 542,
-    "timeYear": 568,
+    "timeDay": 256,
+    "timeWeek": 389,
+    "timeMonth": 541,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2026-02-18": 58,
       "2026-02-17": 28,
@@ -204,8 +203,7 @@
       "2025-05-02": 46,
       "2025-03-21": 16,
       "2025-03-13": 72,
-      "2025-02-20": 59,
-      "2025-02-19": 51
+      "2025-02-20": 59
     }
   },
   {
@@ -215,14 +213,14 @@
     "slug": "secret-website-3",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "60.45%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "65.07%",
     "uptimeMonth": "89.95%",
     "uptimeYear": "94.79%",
     "time": 1601,
-    "timeDay": 920,
-    "timeWeek": 1024,
-    "timeMonth": 1060,
+    "timeDay": 953,
+    "timeWeek": 1016,
+    "timeMonth": 1062,
     "timeYear": 1600,
     "dailyMinutesDown": {
       "2026-02-18": 57,
@@ -308,8 +306,7 @@
       "2025-05-16": 63,
       "2025-03-21": 25,
       "2025-03-13": 72,
-      "2025-02-20": 59,
-      "2025-02-19": 50
+      "2025-02-20": 59
     }
   },
   {
@@ -319,14 +316,14 @@
     "slug": "secret-website-4",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "60.51%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "65.13%",
     "uptimeMonth": "89.87%",
     "uptimeYear": "94.82%",
     "time": 1014,
-    "timeDay": 926,
-    "timeWeek": 1098,
-    "timeMonth": 1149,
+    "timeDay": 944,
+    "timeWeek": 1095,
+    "timeMonth": 1148,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2026-02-18": 57,
@@ -408,8 +405,7 @@
       "2025-04-24": 22,
       "2025-03-21": 25,
       "2025-03-13": 72,
-      "2025-02-20": 58,
-      "2025-02-19": 50
+      "2025-02-20": 58
     }
   }
 ]
