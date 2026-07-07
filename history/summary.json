@@ -6,12 +6,12 @@
     "slug": "web-busy-light-demo",
     "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "94.23%",
-    "uptimeMonth": "95.32%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "94.06%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "98.03%",
     "time": 265,
-    "timeDay": 344,
+    "timeDay": 368,
     "timeWeek": 452,
     "timeMonth": 387,
     "timeYear": 267,
@@ -86,7 +86,7 @@
       "2026-07-03": 207,
       "2026-07-05": 226,
       "2026-07-06": 86,
-      "2026-07-07": 15
+      "2026-07-07": 32
     }
   },
   {
@@ -96,9 +96,9 @@
     "slug": "secret-website-1",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "95.60%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "97.45%",
     "uptimeYear": "97.83%",
     "time": 576,
     "timeDay": 444,
@@ -179,7 +179,7 @@
       "2026-07-03": 146,
       "2026-07-05": 164,
       "2026-07-06": 81,
-      "2026-07-07": 10
+      "2026-07-07": 27
     }
   },
   {
@@ -189,12 +189,12 @@
     "slug": "secret-website-3",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "95.79%",
-    "uptimeMonth": "97.86%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "97.61%",
     "time": 1434,
-    "timeDay": 1752,
+    "timeDay": 2243,
     "timeWeek": 1021,
     "timeMonth": 1159,
     "timeYear": 1429,
@@ -272,7 +272,7 @@
       "2026-07-03": 146,
       "2026-07-05": 159,
       "2026-07-06": 76,
-      "2026-07-07": 5
+      "2026-07-07": 22
     }
   },
   {
@@ -282,12 +282,12 @@
     "slug": "secret-website-4",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "97.57%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "97.56%",
     "time": 1074,
-    "timeDay": 261,
+    "timeDay": 272,
     "timeWeek": 312,
     "timeMonth": 286,
     "timeYear": 1089,
@@ -367,7 +367,7 @@
       "2026-07-03": 146,
       "2026-07-05": 154,
       "2026-07-06": 72,
-      "2026-07-07": 1
+      "2026-07-07": 17
     }
   }
 ]
