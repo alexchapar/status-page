@@ -6,8 +6,8 @@
     "slug": "web-busy-light-demo",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "97.11%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "97.10%",
     "uptimeMonth": "95.37%",
     "uptimeYear": "98.66%",
     "time": 270,
@@ -97,7 +97,7 @@
     "slug": "secret-website-1",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.30%",
+    "uptimeDay": "99.26%",
     "uptimeWeek": "98.64%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "97.80%",
@@ -183,7 +183,7 @@
       "2026-07-13": 9,
       "2026-07-12": 41,
       "2026-07-16": 76,
-      "2026-07-19": 10
+      "2026-07-19": 11
     }
   },
   {
@@ -193,8 +193,8 @@
     "slug": "secret-website-3",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "98.79%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "98.78%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "97.59%",
     "time": 1421,
@@ -279,7 +279,7 @@
       "2026-07-13": 9,
       "2026-07-12": 36,
       "2026-07-16": 71,
-      "2026-07-19": 5
+      "2026-07-19": 6
     }
   },
   {
@@ -289,8 +289,8 @@
     "slug": "secret-website-4",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.93%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "97.79%",
     "time": 1059,
