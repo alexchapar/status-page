@@ -4,16 +4,16 @@
     "url": "https://workfromhome.capricehosting.com/",
     "icon": "https://workfromhome.capricehosting.com/favicon.ico",
     "slug": "web-busy-light-demo",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "94.88%",
-    "uptimeWeek": "91.96%",
-    "uptimeMonth": "93.87%",
-    "uptimeYear": "98.50%",
+    "uptimeDay": "88.27%",
+    "uptimeWeek": "91.02%",
+    "uptimeMonth": "93.65%",
+    "uptimeYear": "98.48%",
     "time": 274,
-    "timeDay": 418,
-    "timeWeek": 415,
-    "timeMonth": 400,
+    "timeDay": 396,
+    "timeWeek": 411,
+    "timeMonth": 399,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2026-02-22": 34,
@@ -90,7 +90,7 @@
       "2026-07-28": 152,
       "2026-07-29": 80,
       "2026-07-30": 134,
-      "2026-07-31": 0
+      "2026-07-31": 96
     }
   },
   {
