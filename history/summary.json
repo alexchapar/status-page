@@ -6,10 +6,10 @@
     "slug": "web-busy-light-demo",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.98%",
+    "uptimeDay": "96.88%",
     "uptimeWeek": "94.07%",
-    "uptimeMonth": "92.48%",
-    "uptimeYear": "98.24%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "98.23%",
     "time": 405,
     "timeDay": 314,
     "timeWeek": 389,
@@ -89,7 +89,7 @@
       "2026-09-07": 111,
       "2026-09-08": 324,
       "2026-09-11": 51,
-      "2026-09-12": 15
+      "2026-09-12": 45
     }
   },
   {
@@ -99,10 +99,10 @@
     "slug": "secret-website-1",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "98.22%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "98.21%",
     "time": 520,
     "timeDay": 454,
     "timeWeek": 507,
@@ -186,7 +186,7 @@
       "2026-08-20": 48,
       "2026-09-02": 66,
       "2026-09-01": 32,
-      "2026-09-12": 10
+      "2026-09-12": 40
     }
   },
   {
@@ -196,9 +196,9 @@
     "slug": "secret-website-3",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "97.80%",
     "time": 380,
     "timeDay": 314,
@@ -286,7 +286,7 @@
       "2026-08-20": 43,
       "2026-09-02": 66,
       "2026-09-01": 28,
-      "2026-09-12": 5
+      "2026-09-12": 35
     }
   },
   {
@@ -296,9 +296,9 @@
     "slug": "secret-website-4",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "97.75%",
     "time": 372,
     "timeDay": 373,
@@ -386,7 +386,7 @@
       "2026-08-20": 38,
       "2026-09-02": 66,
       "2026-09-01": 23,
-      "2026-09-12": 0
+      "2026-09-12": 30
     }
   }
 ]
