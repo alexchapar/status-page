@@ -6,10 +6,10 @@
     "slug": "web-busy-light-demo",
     "status": "degraded",
     "uptime": "99.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "96.66%",
-    "uptimeMonth": "95.78%",
-    "uptimeYear": "98.28%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "95.69%",
+    "uptimeYear": "98.27%",
     "time": 401,
     "timeDay": 368,
     "timeWeek": 356,
@@ -93,7 +93,7 @@
       "2026-09-30": 125,
       "2026-10-03": 187,
       "2026-10-06": 150,
-      "2026-10-07": 0
+      "2026-10-07": 41
     }
   },
   {
