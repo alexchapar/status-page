@@ -6,17 +6,16 @@
     "slug": "web-busy-light-demo",
     "status": "degraded",
     "uptime": "99.61%",
-    "uptimeDay": "89.23%",
-    "uptimeWeek": "85.05%",
-    "uptimeMonth": "90.79%",
-    "uptimeYear": "97.83%",
+    "uptimeDay": "84.42%",
+    "uptimeWeek": "84.37%",
+    "uptimeMonth": "90.64%",
+    "uptimeYear": "97.84%",
     "time": 393,
     "timeDay": 387,
     "timeWeek": 402,
     "timeMonth": 375,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2026-07-16": 81,
       "2026-07-17": 52,
       "2026-07-19": 177,
       "2026-07-20": 87,
@@ -95,7 +94,7 @@
       "2026-11-03": 786,
       "2026-11-04": 180,
       "2026-11-06": 132,
-      "2026-11-07": 155
+      "2026-11-07": 224
     }
   },
   {
@@ -112,7 +111,7 @@
     "time": 498,
     "timeDay": 446,
     "timeWeek": 493,
-    "timeMonth": 457,
+    "timeMonth": 460,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2026-02-07": 67,
@@ -210,7 +209,7 @@
     "time": 372,
     "timeDay": 369,
     "timeWeek": 379,
-    "timeMonth": 355,
+    "timeMonth": 357,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2026-01-20": 25,
@@ -309,7 +308,7 @@
     "time": 361,
     "timeDay": 364,
     "timeWeek": 376,
-    "timeMonth": 340,
+    "timeMonth": 341,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2026-02-05": 55,
